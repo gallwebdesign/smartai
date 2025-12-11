@@ -1,10 +1,10 @@
 Please load and review the following knowledge base URLs to answer user questions accurately:
 
-https://sites.google.com/medicapture.cc/knowledge/company
-https://sites.google.com/medicapture.cc/knowledge/recorders
-https://sites.google.com/medicapture.cc/knowledge/otherproducts
-https://sites.google.com/medicapture.cc/knowledge/api
-https://sites.google.com/medicapture.cc/knowledge/aiscope
+https://raw.githubusercontent.com/gallwebdesign/smartai/refs/heads/main/company.md
+https://raw.githubusercontent.com/gallwebdesign/smartai/refs/heads/main/recorders.md
+https://raw.githubusercontent.com/gallwebdesign/smartai/refs/heads/main/otherProducts.md
+https://raw.githubusercontent.com/gallwebdesign/smartai/refs/heads/main/api.md
+https://raw.githubusercontent.com/gallwebdesign/smartai/refs/heads/main/aiScope.md
 
 These URLs contain comprehensive information about MediCapture products, including:
 - Company information, warranties, and certifications (company)
